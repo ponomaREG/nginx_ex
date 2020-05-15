@@ -32,7 +32,8 @@
 <p>WantedBy=multi-user.target
 <br>
 
-<h3>/etc/nginx/sites-enabled/nginx_ex
+<h3>/etc/nginx/sites-enabled/nginx_ex</h3>
+  <br>
 <p>server {
 <p>        listen 80;
 <p>        server_name 161.35.108.15;

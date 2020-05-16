@@ -1,3 +1,5 @@
+<h4>guide https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-18-04-ru</h4>
+
 <h3>/etc/systemd/system/nginx_ex.service</h3>
 <br>
 <p>[Unit]

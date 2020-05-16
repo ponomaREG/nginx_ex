@@ -58,4 +58,7 @@
 <p>        }
 <p>}
 
-
+<h3>Commands</h3>
+<p>systemctl start nginx_ex.service
+<p>systemctl start perpetum.service
+<p>systemctl start nginx
